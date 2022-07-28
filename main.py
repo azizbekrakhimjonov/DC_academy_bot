@@ -7,7 +7,7 @@ from aiogram.dispatcher.filters import Text
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from buttons import kurs_btn_Ru, kurs_btn_Uz, can, lang_btn, courseTime
 
-token = '5362855984:AAEDSrr3m0_NPHqKO_PyXd0VPPDXUPzg3Jc'  # dc register bot
+token = "your api token here"
 
 
 logging.basicConfig(level=logging.INFO)
